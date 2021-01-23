@@ -1,0 +1,24 @@
+
+.cen{
+	text-align:center;
+	margin: 0 auto 0 auto;
+}
+
+a{
+	font-size:1.3rem;
+}
+
+.logo{
+      width:13rem;
+      height: 7rem;
+      border-radius:100%;
+}
+
+#search-bar{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.right-space{
+	height:60px;
+	margin-right:3%;
+}
